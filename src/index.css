@@ -1,0 +1,28 @@
+body {
+  margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+    margin: 0; 
+    background-color: gray;
+}
+button{
+  font-size:xx-large;
+  background-color: white;
+  color:black;
+  padding:10px;
+}
+button:hover{
+  background-color: black;
+  color:white;
+}
+img{
+  position: absolute;
+  width: 420px;
+  top:10px;
+  left:730px;
+}
